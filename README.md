@@ -1,4 +1,4 @@
-# AI Flashcards & Stripe 💸
+# AI Flashcards & Stripe 💰
 
 ## Team Project
 
